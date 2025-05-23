@@ -52,7 +52,7 @@ src/
 └── App.css            # App-level styling
 ```
 ### Admin Panel Preview
-![Admin Panel](.\assets\images\result.png)
+![Admin Panel](assets\images\result.png)
 
 ## 🧪 Dummy Data
 All UI components are backed by mock data. No external API integration.
